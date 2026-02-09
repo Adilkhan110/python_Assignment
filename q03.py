@@ -13,4 +13,5 @@ if user[0].isalpha() and user[0] not in vowels:
         s_h = user[mid:]
         print("Second Half: ", f_h + s_h[::-1])
 else:
-    print("Without Space String: ", user.replace(" ",""))
+    jls_extract_var = ""
+    print("Without Space String:", user.replace(" ", jls_extract_var))
