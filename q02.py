@@ -9,3 +9,27 @@ if length > 6 < 12:
         print("alternate characters: ", user[::2])
 else:
     print(user[::-1])
+
+# 1       Input
+# Enter the String: Hello World
+
+#         Output
+# First Word is:  Hello
+
+# 2       Input
+# Enter the String: Python
+
+#         Output
+# alternate characters:  Pton
+
+# 3       Input
+# Enter the String: abcdefghijkl
+
+#         Output
+# The first and last characters are the same:  The 01: a  The 02: l
+
+# 4       Input
+# Enter the String: abcdef
+
+#         Output
+# fedcba

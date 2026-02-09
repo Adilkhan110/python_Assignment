@@ -5,3 +5,17 @@ if length > 8:
     second_half = user[length // 2:]
     if first_half == second_half:
         print("Mirror String")
+
+
+
+# 1       Input
+# Enter a string: abcdefghijabcdefghij
+
+#         Output
+# Mirror String
+
+# 2       Input
+# Enter a string: HelloWorld
+
+#         Output
+# (No output)

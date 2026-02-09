@@ -20,3 +20,22 @@ if length > 5:
 else:
     modified=user[1:]
     print(modified+modified)
+
+
+# 1       Input 
+# Enter the String: abc|cba
+
+#         Output
+# Palindrome Half
+
+# 2       Input
+# Enter the String: HELLO WORLD
+
+#         Output
+# HLL WRLD
+
+# 3       Input
+# Enter the String: hello
+
+#         Output
+# elloello

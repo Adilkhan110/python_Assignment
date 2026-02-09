@@ -15,3 +15,22 @@ if user[0].isalpha() and user[0] not in vowels:
 else:
     jls_extract_var = ""
     print("Without Space String:", user.replace(" ", jls_extract_var))
+
+# 1       Input
+# Enter the String: Hello World
+
+#         Output
+# First Half:  olleH World
+
+# 2       Input
+# Enter the String: Python3
+
+#         Output
+# Second Half:  Pytho3n
+
+# 3       Input
+# Enter the String: 12345
+
+#         Output
+# Without Space String: 12345
+
